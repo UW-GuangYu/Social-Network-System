@@ -1,5 +1,5 @@
 
-This project is used to simulate a simple social network system. It uses Mysql as database storage and has a CLI client with a set of well-defined APIs for clients.
+This project is used to simulate a simple social network system. It uses Mysql as database storage and has a CLI client with a set of well-defined APIs for clients. Please check my ER Model diagram first to see the ideas and goals of the project. 
 
 ## Getting Started
 ### Prerequisites
